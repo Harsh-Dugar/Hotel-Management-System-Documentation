@@ -25,7 +25,10 @@ As a key contributor to the project:
 * **Collaboration:** Actively collaborated with the team on debugging and refining various modules to ensure smooth operation.
 
 ## System Architecture (High-Level Description)
-*(Briefly describe how the parts connected. E.g., "The system followed a client-server architecture, where the Java application interacted with a central relational database via JDBC for data persistence.")*
+* **Frontend (Client-Side):** This would be the part of the system that users (hotel staff, receptionists) directly interact with. Developed using Java Swing or JavaFX (common Java GUI frameworks), creating a graphical user interface (GUI) that runs on a desktop computer. This GUI would have forms for guest check-in, check-out, room booking, viewing guest details, generating bills, etc.
+
+* **Backend Logic (Application Layer):** Written in Java, this layer contains the core business logic of the hotel management system. It processes user requests from the frontend, such as "book a room," "check available rooms," or "generate bill." It interacts with the database to store, retrieve, update, or delete information.
+* **Database (Data Layer):** This is where all the hotel data is stored. Managed by an SQL database management system (DBMS) like MySQL, PostgreSQL, or SQLite. It would contain tables for Guests, Rooms, Bookings, Payments, Staff, etc. Your role in using SQL would involve writing queries to interact with this database (e.g., INSERT new guests, SELECT available rooms, UPDATE booking statuses, DELETE old records).
 
 ## Learnings & Challenges
 * Gained practical experience in integrating Java applications with relational databases using SQL.
