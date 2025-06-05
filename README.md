@@ -3,7 +3,7 @@ Documentation for a Hotel Management System project developed using Java and SQL
 # Hotel Management System
 
 ## Project Overview
-This repository serves as documentation for a **Hotel Management System** developed during my 2nd semester. The project aimed to streamline core hotel operations, including guest management, room booking, and billing. While the full source code is not publicly available (as the project was deleted after showcasing), this documentation details the system's functionalities, technologies used, and my specific contributions.
+This repository serves as documentation for a **Hotel Management System** developed. The project aimed to streamline core hotel operations, including guest management, room booking, and billing. While the full source code is not publicly available (as the project was deleted after showcasing), this documentation details the system's functionalities, technologies used, and my specific contributions.
 
 ## Features & Functionalities
 The system included, but was not limited to, the following key features:
