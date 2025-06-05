@@ -36,10 +36,6 @@ As a key contributor to the project:
 * Understood the process of systematic software testing and bug reporting in a team environment.
 * *(Optional: Mention a specific challenge, e.g., "Managed complex SQL joins for generating accurate billing reports.")*
 
-## Screenshots / Mockups (CRUCIAL - Add if you have ANY!)
-*(If you have any old screenshots from presentations, design mockups, or even photos from the showcasing, include them here. Even a basic image makes a huge difference.)*
-![Screenshot of Hotel Management System](https://raw.githubusercontent.com/yourusername/Hotel-Management-System-Documentation/main/screenshot.png)
-*(Replace with your actual image link, or remove this section if you truly have no visuals)*
 
 ---
 *Disclaimer: This repository serves as documentation for a past academic project. The full source code is not available here due to project completion and local deletion after successful demonstration.*
